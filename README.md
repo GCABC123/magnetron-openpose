@@ -1,3 +1,26 @@
+🤖 THE ABC 123 GROUP ™ 🤖
+
+🌐 GENERAL CONSULTING ABC 123 BY OSAROPRIME ™.
+
+🌐 ABC 123 USA ™
+
+🌐 ABC 123 DESYGN ™
+
+🌐 ABC 123 FILMS ™
+
+=============================================================
+
+                 🌐 MAGENTRON ™ 🌐
+🌐 ARTIFICIAL INTELLIGENCE 2.0 ™ : ASTRSAL VISION PROXIA D (POSE ESTIMATION)
+
+*️⃣📶🤖
+
+ASTRAL SENSE: SIGHT ✅
+ASTRAL SENSE: SMELL
+ASTRAL SENSE: HEARING
+ASTRAL SENSE: TASTE
+ASTRAL SENSE: TOUCH
+
 <div align="center">
     <img src=".github/Logo_main_black.png" width="300">
 </div>
