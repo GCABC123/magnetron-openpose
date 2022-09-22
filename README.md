@@ -8,7 +8,7 @@
 
 🌐 ABC 123 FILMS ™
 
-Check out these JUPYTER NOTEBOOKS FOR MORE ON POSE ESTIMATION PROXIA: https://github.com/GCABC123/magnetron.artificial-intelligence-2.0.mincloud.proxia--ASTRAL_VISION-C
+Check out this JUPYTER NOTEBOOK FOR MORE ON POSE ESTIMATION PROXIA: https://github.com/GCABC123/magnetron.artificial-intelligence-2.0.mincloud.proxia--ASTRAL_VISION-C
 
 =============================================================
 
